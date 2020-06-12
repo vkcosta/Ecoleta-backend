@@ -1,4 +1,4 @@
-import express, { request, response } from 'express';
+import express from 'express';
 import routes from './routers';
 import path from 'path';
 import cors from 'cors';
